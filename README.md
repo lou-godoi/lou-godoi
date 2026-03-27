@@ -61,4 +61,12 @@
   <br />
   <img src="https://github.com/user-attachments/assets/4ab92ca2-4638-41e7-9e7f-56f0bb8393fe" alt="Crystal Lizard" width="100px" />
 </div>
+   </tr>
+  </table>
+
+  <div align="center">
+    <br />
+    <img src="https://raw.githubusercontent.com/lou-godoi/lou-godoi/output/github-contribution-grid-snake.svg" alt="Minha Cobrinha" />
+    <br />
+  </div>
   </div>
