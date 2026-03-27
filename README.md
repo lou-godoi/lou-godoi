@@ -66,7 +66,7 @@
 
   <div align="center">
     <br />
-    <img src="https://raw.githubusercontent.com/lou-godoi/lou-godoi/output/github-contribution-grid-snake.svg" alt="Minha Cobrinha" />
+<img src="https://raw.githubusercontent.com/lou-godoi/lou-godoi/output/github-contribution-grid-snake-dark.svg" alt="Minha Cobrinha" />
     <br />
   </div>
   </div>
