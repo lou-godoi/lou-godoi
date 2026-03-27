@@ -1,9 +1,16 @@
-## 👋 Hi, I'm Lou!
+## 👋 Hi, I'm Lou! 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lou-godoi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lou-godoi&layout=compact&langs_count=8&theme=dracula" />
 </div>
+
+  <div align="center">
+  <br />
+  <img src="https://github.com/user-attachments/assets/4ab92ca2-4638-41e7-9e7f-56f0bb8393fe" alt="Crystal Lizard" width="70px" />
+</div>
+   </tr>
+  </table>
 
 <div align="center">
   <h1>Choose your language | Escolha seu idioma</h1>
@@ -57,13 +64,6 @@
         <a href="https://www.instagram.com/lougodoi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
       </div>
     </details>
-   <div align="center">
-  <br />
-  <img src="https://github.com/user-attachments/assets/4ab92ca2-4638-41e7-9e7f-56f0bb8393fe" alt="Crystal Lizard" width="100px" />
-</div>
-   </tr>
-  </table>
-
   <div align="center">
     <br />
 <img src="https://raw.githubusercontent.com/lou-godoi/lou-godoi/output/github-contribution-grid-snake-dark.svg" alt="Minha Cobrinha" />
